@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "Calculator.Console"
+		},
+		{
+			"path": "Calculator.Tests"
+		}
+	],
+	"settings": {}
+}
